@@ -6,7 +6,7 @@ const EditorPicked = () => {
         <Box my="80px">
 
             <Container>
-                <Typography variant='h3'>Editor's Picked</Typography>
+                <Typography variant='h3'>Editors Picked</Typography>
 
 
                 <Grid container>
